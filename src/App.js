@@ -375,7 +375,7 @@ function App() {
                     <p class="mb-4">You can visit our Art after the Mint (5/21) here: <a href="https://opensea.io/assets/0xE33bc577a0B1E82b0c777B4c4C7E3669FaB6Dd0A">Opensea</a>
                       <div class="divider-custom divider-light"> </div>
                       <p>SKATER NFT: Skate'r NFT Club</p>
-                      <p>SKATER ERC20 Token: Skate'r Token (SKATER)</p>
+                      <p>SKATER ERC20 Token: TBA June, 2022</p>
                       <p>SKATER DAO TOKEN: TBA June, 2022</p></p>
                     <button class="btn btn-primary" data-bs-dismiss="modal">
                       <i class="fas fa-xmark fa-fw"></i>
@@ -410,7 +410,7 @@ function App() {
                     <p class="mb-4">Skate2Earn is a powerful skateboarding tracker that allows you to earn cryptocurrency for skateboarding. We pay out Skate'r Tokens for every mile you skateboard. This is the application to give you that extra incentive to get out and skateboard!
                       <div class="divider-custom divider-light"> </div>
                       <p>SKATER NFT: Skate'r NFT Club</p>
-                      <p>SKATER ERC20 Token: Skate'r Token (SKATER)</p>
+                      <p>SKATER ERC20 Token: TBA June, 2022</p>
                       <p>SKATER DAO TOKEN: TBA June, 2022</p>
                     </p>
                     <button class="btn btn-primary" data-bs-dismiss="modal">
@@ -445,7 +445,7 @@ function App() {
                     <p class="mb-4">Skate'r (SKATER) is a lifestyle NFT built with Social-Fi elements to inspire the next generation of skaters while helping local skating communities all around the world. By joining our community, you will get exclusive access to our Skate2Earn application!
                       <div class="divider-custom divider-light"> </div>
                       <p>SKATER NFT: Skate'r NFT Club</p>
-                      <p>SKATER ERC20 Token: Skate'r Token (SKATER)</p>
+                      <p>SKATER ERC20 Token: TBA June, 2022</p>
                       <p>SKATER DAO TOKEN: TBA June, 2022</p></p>
                     <button class="btn btn-primary" data-bs-dismiss="modal">
                       <i class="fas fa-xmark fa-fw"></i>
@@ -479,7 +479,7 @@ function App() {
                     <p class="mb-4">You can visit our roadmap here: <a href="https://skater.gitbook.io/skaternft/fundamentals/roadmap">Roadmap</a>
                       <div class="divider-custom divider-light"> </div>
                       <p>SKATER NFT: Skate'r NFT Club</p>
-                      <p>SKATER ERC20 Token: Skate'r Token (SKATER)</p>
+                      <p>SKATER ERC20 Token: TBA June, 2022</p>
                       <p>SKATER DAO TOKEN: TBA June, 2022</p></p>
                     <button class="btn btn-primary" data-bs-dismiss="modal">
                       <i class="fas fa-xmark fa-fw"></i>
@@ -510,7 +510,7 @@ function App() {
                       <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                       <div class="divider-custom-line"></div>
                     </div>
-                    <p class="mb-4">To MINT your Skate'r NFT, follow these instructions:
+                    <p class="mb-4">To MINT your Skate'r NFT on 5/21, follow these instructions:
                       <div class="divider-custom divider-light"> </div>
                       <div> </div>
                       1. Browse to <a href="https://skaternft.org">https://skaternft.org</a>
@@ -524,7 +524,7 @@ function App() {
                       5. Press BUY and follow the Metamask prompts
                       <div class="divider-custom divider-light"> </div>
                       <p>SKATER NFT: Skate'r NFT Club</p>
-                      <p>SKATER ERC20 Token: Skate'r Token (SKATER)</p>
+                      <p>SKATER ERC20 Token: TBA June, 2022</p>
                       <p>SKATER DAO TOKEN: TBA June, 2022</p></p>
                     <button class="btn btn-primary" data-bs-dismiss="modal">
                       <i class="fas fa-xmark fa-fw"></i>
@@ -558,7 +558,7 @@ function App() {
                     <p class="mb-4">You can visit our Whitepaper here: <a href="https://skater.gitbook.io/skaternft/">Whitepaper</a>
                       <div class="divider-custom divider-light"> </div>
                       <p>SKATER NFT: Skate'r NFT Club</p>
-                      <p>SKATER ERC20 Token: Skate'r Token (SKATER)</p>
+                      <p>SKATER ERC20 Token: TBA June, 2022</p>
                       <p>SKATER DAO TOKEN: TBA June, 2022</p></p>
                     <button class="btn btn-primary" data-bs-dismiss="modal">
                       <i class="fas fa-xmark fa-fw"></i>
@@ -680,7 +680,7 @@ function App() {
     <s.Screen>
       {htmlhead}
       {htmlbodyfirst}
-      <div class="divider-custom divider-light"> </div>
+      {/* <div class="divider-custom divider-light"> </div>
       <body id="mint-tab"></body>
       <div class="divider-custom divider-light"> </div>
       <s.Container
@@ -905,7 +905,7 @@ function App() {
         </s.Container>
       </s.Container>
       <div class="divider-custom divider-light"> </div>
-      <div class="divider-custom divider-light"> </div>
+      <div class="divider-custom divider-light"> </div> */}
       {htmlbodysecond}
     </s.Screen>
   );
