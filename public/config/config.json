@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE33bc577a0B1E82b0c777B4c4C7E3669FaB6Dd0A",
+  "SCAN_LINK": "https://etherscan.io/token/0xE33bc577a0B1E82b0c777B4c4C7E3669FaB6Dd0A",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Skate'r NFT Club",
+  "SYMBOL": "SKATER",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/assets/0xE33bc577a0B1E82b0c777B4c4C7E3669FaB6Dd0A",
+  "SHOW_BACKGROUND": false
+}
