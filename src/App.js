@@ -142,7 +142,7 @@ function App() {
               <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded"
                 href="#portfolio">Team</a></li>
               <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded"
-                href="#skater">Mint</a>
+                href="#mint-tab">Mint</a>
               </li>
               <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded"
                 href="https://skater.gitbook.io/skaternft/" target="_blank" rel="noopener">WhitePaper</a>
