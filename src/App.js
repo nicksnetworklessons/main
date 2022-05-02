@@ -372,7 +372,7 @@ function App() {
                       <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                       <div class="divider-custom-line"></div>
                     </div>
-                    <p class="mb-4">You can visit our Art after the Mint (5/21) here: <a href="https://opensea.io/assets/0xE33bc577a0B1E82b0c777B4c4C7E3669FaB6Dd0A">Opensea</a>
+                    <p class="mb-4">You can visit our Art after the Mint here: <a href="https://opensea.io/assets/0xE33bc577a0B1E82b0c777B4c4C7E3669FaB6Dd0A">Opensea</a>
                       <div class="divider-custom divider-light"> </div>
                       <p>SKATER NFT: Skate'r NFT Club</p>
                       <p>SKATER ERC20 Token: TBA June, 2022</p>
@@ -510,7 +510,7 @@ function App() {
                       <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                       <div class="divider-custom-line"></div>
                     </div>
-                    <p class="mb-4">To MINT your Skate'r NFT on 5/21, follow these instructions:
+                    <p class="mb-4">To MINT your Skate'r NFT after launch, follow these instructions:
                       <div class="divider-custom divider-light"> </div>
                       <div> </div>
                       1. Browse to <a href="https://skaternft.org">https://skaternft.org</a>
