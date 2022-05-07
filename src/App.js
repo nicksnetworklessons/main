@@ -682,8 +682,9 @@ function App() {
 
     <s.Screen>
       {/* {htmlhead}
-      {htmlbodyfirst} */}
+      {htmlbodyfirst}
       <div class="divider-custom divider-light"> </div>
+      <div class="divider-custom divider-light"> </div> */}
       <body id="mint-tab"></body>
       <div class="divider-custom divider-light"> </div>
       <s.Container
@@ -907,9 +908,9 @@ function App() {
           </s.TextDescription>
         </s.Container>
       </s.Container>
+      {/* <div class="divider-custom divider-light"> </div>
       <div class="divider-custom divider-light"> </div>
-      <div class="divider-custom divider-light"> </div>
-      {/* {htmlbodysecond} */}
+      {htmlbodysecond}
     </s.Screen>
   );
 }
