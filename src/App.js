@@ -686,7 +686,6 @@ function App() {
       <div class="divider-custom divider-light"> </div>
       <div class="divider-custom divider-light"> </div> */}
       <body id="mint-tab"></body>
-      <div class="divider-custom divider-light"> </div>
       <s.Container
         flex={1}
         ai={"center"}
@@ -910,7 +909,7 @@ function App() {
       </s.Container>
       {/* <div class="divider-custom divider-light"> </div>
       <div class="divider-custom divider-light"> </div>
-      {htmlbodysecond}
+      {htmlbodysecond} */}
     </s.Screen>
   );
 }
